@@ -2,6 +2,8 @@
 
 This is a **BSOD** (*Blue Screen Of Death*) wallpaper with a **Rick Roll** added inside the **QR Code** that is present and visible in every classic **Microsoft Windows OS BSOD**.
 
+![enter image description here](https://github.com/andreadevita99/rickroll/blob/main/mockup.png)
+
 ## Author
 
 [Andrea De Vita](https://github.com/andreadevita99)
